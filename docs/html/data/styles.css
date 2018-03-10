@@ -13,6 +13,8 @@
 }
 .ellipse {
 }
+.image {
+}
 .link_button {
   color:#169BD5;
 }
@@ -64,5 +66,29 @@
 ._文本段落 {
   text-align:left;
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.tree_node {
+  text-align:left;
+}
 ._流程形状 {
+}
+._图片 {
 }
