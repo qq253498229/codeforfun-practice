@@ -17,6 +17,8 @@
 }
 .placeholder {
 }
+.button {
+}
 .link_button {
   color:#169BD5;
 }
@@ -67,6 +69,8 @@
 }
 ._文本段落 {
   text-align:left;
+}
+.line {
 }
 .text_field {
   color:#000000;

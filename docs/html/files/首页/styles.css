@@ -1231,3 +1231,25 @@
   width:371px;
   word-wrap:break-word;
 }
+#u70_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:16px;
+  height:17px;
+}
+#u70 {
+  position:absolute;
+  left:691px;
+  top:26px;
+  width:16px;
+  height:17px;
+}
+#u71 {
+  position:absolute;
+  left:2px;
+  top:0px;
+  width:12px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
