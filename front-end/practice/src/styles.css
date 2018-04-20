@@ -3,9 +3,14 @@
 
 html {
   height: 100%;
-  background-image: radial-gradient(circle, #12e1ce 0%, #005669 100%);
+  background-image: radial-gradient(circle, #12e1ce 0%, #2d4f3b 100%);
+  /*background-color: #2d4f3b;*/
 }
 
 body {
   background-color: transparent;
+}
+
+.img {
+  width: 10%;
 }
