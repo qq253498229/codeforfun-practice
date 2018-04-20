@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import "assets/bootstrap/css/bootstrap.min.css";
+
+html {
+  height: 100%;
+  background-image: radial-gradient(circle, #12e1ce 0%, #005669 100%);
+}
+
+body {
+  background-color: transparent;
+}
